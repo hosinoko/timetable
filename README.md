@@ -1,2 +1,0 @@
-# timetable
-課題
